@@ -57,5 +57,7 @@ Développeur web passionné spécialisé dans l'écosystème React et les techno
 **Portfolio** : [snibix.github.io/Portfolio](https://snibix.github.io/Portfolio/)
 
 ---
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
 *Ouvert aux opportunités de collaboration sur des projets innovants et challenges techniques stimulants.*
