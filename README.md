@@ -4,7 +4,7 @@
 Développeur web passionné spécialisé dans l'écosystème React et les technologies front-end modernes. En progression constante sur les technologies back-end, je conçois des interfaces utilisateur performantes et des solutions web de qualité.
 
 ---
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=snibix&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 ## 🛠️ Technologies & Outils
 
 ### Langages
@@ -42,7 +42,6 @@ Développeur web passionné spécialisé dans l'écosystème React et les techno
 - **UI/UX Design** - Approche centrée utilisateur
 
 ---
-
 ## 🎯 Réalisations & Projets
 
 ### Projets Full-Stack Réalisés
@@ -60,4 +59,5 @@ Développeur web passionné spécialisé dans l'écosystème React et les techno
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
+
 *Ouvert aux opportunités de collaboration sur des projets innovants et challenges techniques stimulants.*
